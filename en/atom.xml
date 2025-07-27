@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://imirai.xyz/en/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>https://imirai.xyz/en/</id>
+  <title>山间之风</title>
+  <subtitle>Hoo&amp;apos;s blog</subtitle>
+  <updated>2025-07-27T14:30:57.789Z</updated>
+  <generator>@vuepress/plugin-feed</generator>
+  <link rel="self" href="https://imirai.xyz/en/atom.xml"/>
+  <link rel="alternate" href="https://imirai.xyz/en/"/>
+  <category term="Blog"/>
+  <entry>
+    <title type="text">Hello World</title>
+    <id>https://imirai.xyz/en/posts/helloworld.html</id>
+    <link href="https://imirai.xyz/en/posts/helloworld.html"/>
+    <updated>2025-07-27T14:18:49.000Z</updated>
+    <summary type="html"><![CDATA[
+<p>Welcome to my blog! This is my first post.</p>
+<h2>About This Blog</h2>
+<p>This blog is built with VuePress and vuepress-theme-hope theme, aiming to share my learning journey and technical insights.</p>
+<h2>What You Can Find Here</h2>
+<ul>
+<li>Technical articles and tutorials</li>
+<li>Learning notes and insights</li>
+<li>Project sharing and summaries</li>
+<li>Life reflections</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[
+<p>Welcome to my blog! This is my first post.</p>
+<h2>About This Blog</h2>
+<p>This blog is built with VuePress and vuepress-theme-hope theme, aiming to share my learning journey and technical insights.</p>
+<h2>What You Can Find Here</h2>
+<ul>
+<li>Technical articles and tutorials</li>
+<li>Learning notes and insights</li>
+<li>Project sharing and summaries</li>
+<li>Life reflections</li>
+</ul>
+<h2>Start Exploring</h2>
+<p>Thank you for visiting my blog. I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me anytime!</p>
+]]></content>
+    <category term="Blog"/>
+    <published>2024-01-01T00:00:00.000Z</published>
+  </entry>
+</feed>

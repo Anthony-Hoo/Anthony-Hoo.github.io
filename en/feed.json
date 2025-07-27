@@ -1,0 +1,22 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "山间之风",
+  "home_page_url": "https://imirai.xyz/en/",
+  "feed_url": "https://imirai.xyz/en/feed.json",
+  "description": "Hoo's blog",
+  "items": [
+    {
+      "title": "Hello World",
+      "url": "https://imirai.xyz/en/posts/helloworld.html",
+      "id": "https://imirai.xyz/en/posts/helloworld.html",
+      "summary": "Hello World Welcome to my blog! This is my first post. About This Blog This blog is built with VuePress and vuepress-theme-hope theme, aiming to share my learning journey and te...",
+      "content_html": "\n<p>Welcome to my blog! This is my first post.</p>\n<h2>About This Blog</h2>\n<p>This blog is built with VuePress and vuepress-theme-hope theme, aiming to share my learning journey and technical insights.</p>\n<h2>What You Can Find Here</h2>\n<ul>\n<li>Technical articles and tutorials</li>\n<li>Learning notes and insights</li>\n<li>Project sharing and summaries</li>\n<li>Life reflections</li>\n</ul>\n<h2>Start Exploring</h2>\n<p>Thank you for visiting my blog. I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me anytime!</p>\n",
+      "date_published": "2024-01-01T00:00:00.000Z",
+      "date_modified": "2025-07-27T14:18:49.000Z",
+      "authors": [],
+      "tags": [
+        "Blog"
+      ]
+    }
+  ]
+}

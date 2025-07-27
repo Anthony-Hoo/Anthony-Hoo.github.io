@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://imirai.xyz/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://imirai.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>山间之风</title>
+    <link>https://imirai.xyz/</link>
+    <description>Hoo的博客</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 27 Jul 2025 14:30:57 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 14:30:57 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>博客</category>
+    <item>
+      <title>Hello World</title>
+      <link>https://imirai.xyz/posts/helloworld.html</link>
+      <guid>https://imirai.xyz/posts/helloworld.html</guid>
+      <source url="https://imirai.xyz/rss.xml">Hello World</source>
+      <description>Hello World 欢迎来到我的博客！这是我的第一篇文章。 关于这个博客 这个博客使用 VuePress 和 vuepress-theme-hope 主题构建，旨在分享我的学习经历和技术见解。 你可以在这里找到什么 技术文章和教程 学习笔记和心得 项目分享和总结 生活感悟 开始探索 感谢访问我的博客，希望你能在这里找到有用的内容。如果你有任何建议或...</description>
+      <category>博客</category>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>欢迎来到我的博客！这是我的第一篇文章。</p>
+<h2>关于这个博客</h2>
+<p>这个博客使用 VuePress 和 vuepress-theme-hope 主题构建，旨在分享我的学习经历和技术见解。</p>
+<h2>你可以在这里找到什么</h2>
+<ul>
+<li>技术文章和教程</li>
+<li>学习笔记和心得</li>
+<li>项目分享和总结</li>
+<li>生活感悟</li>
+</ul>
+<h2>开始探索</h2>
+<p>感谢访问我的博客，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时联系我！</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
