@@ -2,5 +2,5 @@
 node_modules/
 .vuepress/.cache/
 .vuepress/.temp/
-./.vuepress/dist/
+.vuepress/dist/
 GEMINI.md

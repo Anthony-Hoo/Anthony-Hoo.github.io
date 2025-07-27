@@ -14,7 +14,7 @@ export default hopeTheme({
   logo: "/favicon.webp",
 
   //repo: "yourname/yourrepo", // 请修改为你的GitHub仓库
-
+  contributors: false,
   // docsDir: "src",
 
   blog: {
