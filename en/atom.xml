@@ -3,7 +3,7 @@
   <id>https://imirai.xyz/en/</id>
   <title>山间之风</title>
   <subtitle>Hoo&amp;apos;s blog</subtitle>
-  <updated>2025-07-27T14:30:57.789Z</updated>
+  <updated>2025-07-27T14:43:44.437Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://imirai.xyz/en/atom.xml"/>
   <link rel="alternate" href="https://imirai.xyz/en/"/>
@@ -12,7 +12,7 @@
     <title type="text">Hello World</title>
     <id>https://imirai.xyz/en/posts/helloworld.html</id>
     <link href="https://imirai.xyz/en/posts/helloworld.html"/>
-    <updated>2025-07-27T14:18:49.000Z</updated>
+    <updated>2025-07-27T14:43:12.000Z</updated>
     <summary type="html"><![CDATA[
 <p>Welcome to my blog! This is my first post.</p>
 <h2>About This Blog</h2>
