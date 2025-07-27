@@ -15,7 +15,7 @@ export default hopeTheme({
 
   //repo: "yourname/yourrepo", // 请修改为你的GitHub仓库
 
-  docsDir: "src",
+  // docsDir: "src",
 
   blog: {
     medias: {

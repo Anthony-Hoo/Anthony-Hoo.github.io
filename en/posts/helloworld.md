@@ -27,4 +27,4 @@ This blog is rebuilt with VuePress. I have used Hexo, Typecho, or WordPress befo
 
 ## Start Exploring
 
-In short, I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me via the email link on the right! 
+In short, I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me via the email link on the right of homepage! 
