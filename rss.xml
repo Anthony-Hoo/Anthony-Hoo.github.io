@@ -6,8 +6,8 @@
     <link>https://imirai.xyz/</link>
     <description>Hoo的博客</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 27 Jul 2025 14:43:44 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Jul 2025 14:43:44 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 15:25:51 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 15:25:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>博客</category>
@@ -16,22 +16,23 @@
       <link>https://imirai.xyz/posts/helloworld.html</link>
       <guid>https://imirai.xyz/posts/helloworld.html</guid>
       <source url="https://imirai.xyz/rss.xml">Hello World</source>
-      <description>Hello World 欢迎来到我的博客！这是我的第一篇文章。 关于这个博客 这个博客使用 VuePress 和 vuepress-theme-hope 主题构建，旨在分享我的学习经历和技术见解。 你可以在这里找到什么 技术文章和教程 学习笔记和心得 项目分享和总结 生活感悟 开始探索 感谢访问我的博客，希望你能在这里找到有用的内容。如果你有任何建议或...</description>
+      <description>Hello World 欢迎来到山间之风！这是我的 并不是，此前因为一些不可抗力，博客已经荒废了很久。 关于这个博客 这个博客使用 VuePress 重新构建，之前用过 hexo、 Typecho 或者 WordPress ，这次还是回来用静态页面生成器了，真香。 你可以在这里找到什么 技术文章和教程 学习笔记和心得 项目分享和总结 生活感悟 开始探索...</description>
       <category>博客</category>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<p>欢迎来到我的博客！这是我的第一篇文章。</p>
+<p>欢迎来到山间之风！这是我的 <s>第一篇文章</s> 并不是，此前因为一些不可抗力，博客已经荒废了很久。</p>
 <h2>关于这个博客</h2>
-<p>这个博客使用 VuePress 和 vuepress-theme-hope 主题构建，旨在分享我的学习经历和技术见解。</p>
+<p>这个博客使用 VuePress 重新构建，之前用过 hexo、 Typecho 或者 WordPress ，这次还是回来用静态页面生成器了，真香。</p>
 <h2>你可以在这里找到什么</h2>
 <ul>
 <li>技术文章和教程</li>
 <li>学习笔记和心得</li>
 <li>项目分享和总结</li>
 <li>生活感悟</li>
+<li><s>以上这些都不一定有</s></li>
 </ul>
 <h2>开始探索</h2>
-<p>感谢访问我的博客，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时联系我！</p>
+<p>总之，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时戳右边的邮箱链接联系我！</p>
 ]]></content:encoded>
     </item>
   </channel>

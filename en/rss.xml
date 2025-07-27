@@ -6,8 +6,8 @@
     <link>https://imirai.xyz/en/</link>
     <description>Hoo&amp;apos;s blog</description>
     <language>en-US</language>
-    <pubDate>Sun, 27 Jul 2025 14:43:44 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Jul 2025 14:43:44 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 15:25:51 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 15:25:51 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Blog</category>
@@ -16,22 +16,23 @@
       <link>https://imirai.xyz/en/posts/helloworld.html</link>
       <guid>https://imirai.xyz/en/posts/helloworld.html</guid>
       <source url="https://imirai.xyz/en/rss.xml">Hello World</source>
-      <description>Hello World Welcome to my blog! This is my first post. About This Blog This blog is built with VuePress and vuepress-theme-hope theme, aiming to share my learning journey and te...</description>
+      <description>Hello World Welcome to 山间之风! This is not really. Due to some force majeure, the blog has been abandoned for a long time. About This Blog This blog is rebuilt with VuePress. I ha...</description>
       <category>Blog</category>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<p>Welcome to my blog! This is my first post.</p>
+<p>Welcome to 山间之风! This is <s>my first post</s> not really. Due to some force majeure, the blog has been abandoned for a long time.</p>
 <h2>About This Blog</h2>
-<p>This blog is built with VuePress and vuepress-theme-hope theme, aiming to share my learning journey and technical insights.</p>
+<p>This blog is rebuilt with VuePress. I have used Hexo, Typecho, or WordPress before, but this time I'm back to the static site generator, and it's great.</p>
 <h2>What You Can Find Here</h2>
 <ul>
 <li>Technical articles and tutorials</li>
-<li>Learning notes and insights</li>
+<li>Study notes and thoughts</li>
 <li>Project sharing and summaries</li>
 <li>Life reflections</li>
+<li><s>None of the above are guaranteed</s></li>
 </ul>
 <h2>Start Exploring</h2>
-<p>Thank you for visiting my blog. I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me anytime!</p>
+<p>In short, I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me via the email link on the right!</p>
 ]]></content:encoded>
     </item>
   </channel>
