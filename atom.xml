@@ -3,7 +3,7 @@
   <id>https://imirai.xyz/</id>
   <title>山间之风</title>
   <subtitle>Hoo的博客</subtitle>
-  <updated>2025-07-27T15:25:51.144Z</updated>
+  <updated>2025-07-27T15:42:31.583Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://imirai.xyz/atom.xml"/>
   <link rel="alternate" href="https://imirai.xyz/"/>
@@ -12,7 +12,7 @@
     <title type="text">Hello World</title>
     <id>https://imirai.xyz/posts/helloworld.html</id>
     <link href="https://imirai.xyz/posts/helloworld.html"/>
-    <updated>2025-07-27T15:25:03.000Z</updated>
+    <updated>2025-07-27T15:41:47.000Z</updated>
     <summary type="html"><![CDATA[
 <p>欢迎来到山间之风！这是我的 <s>第一篇文章</s> 并不是，此前因为一些不可抗力，博客已经荒废了很久。</p>
 <h2>关于这个博客</h2>
@@ -26,7 +26,7 @@
 <li><s>以上这些都不一定有</s></li>
 </ul>
 <h2>开始探索</h2>
-<p>总之，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时戳右边的邮箱链接联系我！</p>]]></summary>
+<p>总之，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时戳主页右边的邮箱链接联系我！</p>]]></summary>
     <content type="html"><![CDATA[
 <p>欢迎来到山间之风！这是我的 <s>第一篇文章</s> 并不是，此前因为一些不可抗力，博客已经荒废了很久。</p>
 <h2>关于这个博客</h2>
@@ -40,7 +40,7 @@
 <li><s>以上这些都不一定有</s></li>
 </ul>
 <h2>开始探索</h2>
-<p>总之，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时戳右边的邮箱链接联系我！</p>
+<p>总之，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时戳主页右边的邮箱链接联系我！</p>
 ]]></content>
     <category term="博客"/>
     <published>2025-07-27T00:00:00.000Z</published>
