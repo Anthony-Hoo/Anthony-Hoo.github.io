@@ -6,11 +6,28 @@
     <link>https://imirai.xyz/en/</link>
     <description>Hoo&amp;apos;s blog</description>
     <language>en-US</language>
-    <pubDate>Sun, 27 Jul 2025 15:51:40 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Jul 2025 15:51:40 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Jul 2025 16:10:31 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Jul 2025 16:10:31 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>AI</category>
     <category>Blog</category>
+    <item>
+      <title>AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2</title>
+      <link>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</link>
+      <guid>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</guid>
+      <source url="https://imirai.xyz/en/rss.xml">AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2</source>
+      <description>AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2 Due to business needs, we may rent servers from AutoDL for model training, so we tested the perform...</description>
+      <category>AI</category>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>Due to business needs, we may rent servers from AutoDL for model training, so we tested the performance of multi-GPU interconnect for consumer-grade graphics cards (original 2080Ti 11G) on their platform. The results are placed here for reference.</p>
+<p>TL;DR: No NVLink. Although running on a PCIe 3.0x16 switch and both CPU NUMA nodes are connected to the PCIe switch, P2P communication is unavailable due to driver issues, resulting in poor multi-GPU interconnect performance.</p>
+<blockquote>
+<p>The following is a summary from DeepSeek-R1-0528</p>
+</blockquote>
+]]></content:encoded>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://imirai.xyz/en/posts/helloworld.html</link>
@@ -18,7 +35,7 @@
       <source url="https://imirai.xyz/en/rss.xml">Hello World</source>
       <description>Hello World Welcome to 山间之风! This is not really. Due to some force majeure, the blog has been abandoned for a long time. About This Blog This blog is rebuilt with VuePress. I ha...</description>
       <category>Blog</category>
-      <pubDate>Sun, 27 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <p>Welcome to 山间之风! This is <s>my first post</s> not really. Due to some force majeure, the blog has been abandoned for a long time.</p>
 <h2>About This Blog</h2>
