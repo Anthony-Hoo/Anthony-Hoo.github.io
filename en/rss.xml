@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://imirai.xyz/en/rss.xsl"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://imirai.xyz/en/rss.xml" rel="self" type="application/rss+xml"/>
     <title>山间之风</title>
     <link>https://imirai.xyz/en/</link>
     <description>Hoo&amp;apos;s blog</description>
     <language>en-US</language>
-    <pubDate>Thu, 14 Aug 2025 09:15:43 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 09:15:43 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 09:38:02 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 09:38:02 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>AI</category>
@@ -20,13 +20,6 @@
       <description>AutoDL platform 2080Ti dual-GPU interconnect performance test report. Detailed analysis of P2P communication and NCCL collective communication performance bottlenecks under PCIe 3.0 x16 topology, providing reference for multi-GPU training environment setup.</description>
       <category>AI</category>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>Due to business needs, we may rent servers from AutoDL for model training, so we tested the performance of multi-GPU interconnect for consumer-grade graphics cards (original 2080Ti 11G) on their platform. The results are placed here for reference.</p>
-<p>TL;DR: No NVLink. Although running on a PCIe 3.0x16 switch and both CPU NUMA nodes are connected to the PCIe switch, P2P communication is unavailable due to driver issues, resulting in poor multi-GPU interconnect performance.</p>
-<blockquote>
-<p>The following is a summary from DeepSeek-R1-0528</p>
-</blockquote>
-]]></content:encoded>
     </item>
     <item>
       <title>Hello World</title>
@@ -36,21 +29,6 @@
       <description>山间之风 Blog - A technical blog built with VuePress, sharing technical articles, study notes, project summaries and life insights. Explore development experiences and practical knowledge.</description>
       <category>Blog</category>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>Welcome to 山间之风! This is <s>my first post</s> not really. Due to some force majeure, the blog has been abandoned for a long time.</p>
-<h2>About This Blog</h2>
-<p>This blog is rebuilt with VuePress. I have used Hexo, Typecho, or WordPress before, but this time I'm back to the static site generator, and it's great.</p>
-<h2>What You Can Find Here</h2>
-<ul>
-<li>Technical articles and tutorials</li>
-<li>Study notes and thoughts</li>
-<li>Project sharing and summaries</li>
-<li>Life reflections</li>
-<li><s>None of the above are guaranteed</s></li>
-</ul>
-<h2>Start Exploring</h2>
-<p>In short, I hope you can find useful content here. If you have any suggestions or ideas, feel free to contact me via the email link on the right of homepage!</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
