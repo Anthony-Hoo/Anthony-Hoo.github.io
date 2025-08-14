@@ -3,7 +3,7 @@
   <id>https://imirai.xyz/en/</id>
   <title>山间之风</title>
   <subtitle>Hoo&amp;apos;s blog</subtitle>
-  <updated>2025-08-14T08:34:48.787Z</updated>
+  <updated>2025-08-14T09:15:43.138Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://imirai.xyz/en/atom.xml"/>
   <link rel="alternate" href="https://imirai.xyz/en/"/>
@@ -13,7 +13,7 @@
     <title type="text">AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2</title>
     <id>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</id>
     <link href="https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html"/>
-    <updated>2025-07-27T16:09:40.000Z</updated>
+    <updated>2025-08-14T09:12:21.000Z</updated>
     <summary type="html"><![CDATA[
 <p>Due to business needs, we may rent servers from AutoDL for model training, so we tested the performance of multi-GPU interconnect for consumer-grade graphics cards (original 2080Ti 11G) on their platform. The results are placed here for reference.</p>
 <p>TL;DR: No NVLink. Although running on a PCIe 3.0x16 switch and both CPU NUMA nodes are connected to the PCIe switch, P2P communication is unavailable due to driver issues, resulting in poor multi-GPU interconnect performance.</p>]]></summary>
@@ -31,7 +31,7 @@
     <title type="text">Hello World</title>
     <id>https://imirai.xyz/en/posts/helloworld.html</id>
     <link href="https://imirai.xyz/en/posts/helloworld.html"/>
-    <updated>2025-07-27T16:09:40.000Z</updated>
+    <updated>2025-08-14T09:12:21.000Z</updated>
     <summary type="html"><![CDATA[
 <p>Welcome to 山间之风! This is <s>my first post</s> not really. Due to some force majeure, the blog has been abandoned for a long time.</p>
 <h2>About This Blog</h2>

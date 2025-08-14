@@ -6,8 +6,8 @@
     <link>https://imirai.xyz/en/</link>
     <description>Hoo&amp;apos;s blog</description>
     <language>en-US</language>
-    <pubDate>Thu, 14 Aug 2025 08:34:48 GMT</pubDate>
-    <lastBuildDate>Thu, 14 Aug 2025 08:34:48 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 09:15:43 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 09:15:43 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>AI</category>
@@ -17,8 +17,7 @@
       <link>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</link>
       <guid>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</guid>
       <source url="https://imirai.xyz/en/rss.xml">AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2</source>
-      <description>AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2
-Due to business needs, we may rent servers from AutoDL for model training, so we tested the perform...</description>
+      <description>AutoDL platform 2080Ti dual-GPU interconnect performance test report. Detailed analysis of P2P communication and NCCL collective communication performance bottlenecks under PCIe 3.0 x16 topology, providing reference for multi-GPU training environment setup.</description>
       <category>AI</category>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -34,10 +33,7 @@ Due to business needs, we may rent servers from AutoDL for model training, so we
       <link>https://imirai.xyz/en/posts/helloworld.html</link>
       <guid>https://imirai.xyz/en/posts/helloworld.html</guid>
       <source url="https://imirai.xyz/en/rss.xml">Hello World</source>
-      <description>Hello World
-Welcome to 山间之风! This is  not really. Due to some force majeure, the blog has been abandoned for a long time.
-About This Blog
-This blog is rebuilt with VuePress. I h...</description>
+      <description>山间之风 Blog - A technical blog built with VuePress, sharing technical articles, study notes, project summaries and life insights. Explore development experiences and practical knowledge.</description>
       <category>Blog</category>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[

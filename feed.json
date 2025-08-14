@@ -9,10 +9,10 @@
       "title": "AutoDL GPU 容器多 GPU 互联测试-北京 A 区-2080Ti x2",
       "url": "https://imirai.xyz/posts/AutoDL_Multi-GPU_Interconnection_Test.html",
       "id": "https://imirai.xyz/posts/AutoDL_Multi-GPU_Interconnection_Test.html",
-      "summary": "AutoDL GPU 容器多 GPU 互联测试-北京 A 区-2080Ti x2\n因业务需要可能会去 AutoDL 租用服务器用于模型训练，故测试了一下其平台上消费级显卡（原版2080Ti 11G）多卡互联时的性能表现。\n将结果放在这里作为参考。\n省流：没有NVLink，虽然运行在PCIe 3.0x16交换机上，且两个CPU NUMA都接入了PCIe ...",
+      "summary": "AutoDL平台2080Ti双卡GPU互联性能测试报告。详细分析PCIe 3.0 x16拓扑结构下P2P通信、NCCL集合通信性能瓶颈，提供多GPU训练环境搭建参考。",
       "content_html": "\n<p>因业务需要可能会去 AutoDL 租用服务器用于模型训练，故测试了一下其平台上消费级显卡（原版2080Ti 11G）多卡互联时的性能表现。<br>\n将结果放在这里作为参考。</p>\n<p>省流：没有NVLink，虽然运行在PCIe 3.0x16交换机上，且两个CPU NUMA都接入了PCIe switch，但由于驱动原因，P2P通信不可用，导致多卡互联性能较差。</p>\n<blockquote>\n<p>以下为 DeepSeek-R1-0528 的总结</p>\n</blockquote>\n",
       "date_published": "2025-06-05T00:00:00.000Z",
-      "date_modified": "2025-07-27T16:09:40.000Z",
+      "date_modified": "2025-08-14T09:12:21.000Z",
       "authors": [],
       "tags": [
         "AI"
@@ -22,10 +22,10 @@
       "title": "Hello World",
       "url": "https://imirai.xyz/posts/helloworld.html",
       "id": "https://imirai.xyz/posts/helloworld.html",
-      "summary": "Hello World\n欢迎来到山间之风！这是我的  并不是，此前因为一些不可抗力，博客已经荒废了很久。\n关于这个博客\n这个博客使用 VuePress 重新构建，之前用过 hexo、 Typecho 或者 WordPress ，这次还是回来用静态页面生成器了，真香。\n你可以在这里找到什么\n\n技术文章和教程\n学习笔记和心得\n项目分享和总结\n生活感悟\n\n\n...",
+      "summary": "山间之风博客 - 使用VuePress构建的技术博客，分享技术文章、学习笔记、项目总结和生活感悟。欢迎探索开发者世界的技术心得与实践经验。",
       "content_html": "\n<p>欢迎来到山间之风！这是我的 <s>第一篇文章</s> 并不是，此前因为一些不可抗力，博客已经荒废了很久。</p>\n<h2>关于这个博客</h2>\n<p>这个博客使用 VuePress 重新构建，之前用过 hexo、 Typecho 或者 WordPress ，这次还是回来用静态页面生成器了，真香。</p>\n<h2>你可以在这里找到什么</h2>\n<ul>\n<li>技术文章和教程</li>\n<li>学习笔记和心得</li>\n<li>项目分享和总结</li>\n<li>生活感悟</li>\n<li><s>以上这些都不一定有</s></li>\n</ul>\n<h2>开始探索</h2>\n<p>总之，希望你能在这里找到有用的内容。如果你有任何建议或想法，欢迎随时戳主页右边的邮箱链接联系我！</p>\n",
       "date_published": "2025-01-01T00:00:00.000Z",
-      "date_modified": "2025-07-27T16:09:40.000Z",
+      "date_modified": "2025-08-14T09:12:21.000Z",
       "authors": [],
       "tags": [
         "博客"
