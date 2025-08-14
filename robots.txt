@@ -8,7 +8,4 @@ User-agent: *
 Allow: /
 
 
-User-agent:*
-Disallow:
-
 Sitemap: https://imirai.xyz/sitemap.xml

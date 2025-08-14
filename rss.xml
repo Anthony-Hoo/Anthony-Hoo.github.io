@@ -6,8 +6,8 @@
     <link>https://imirai.xyz/</link>
     <description>Hoo的博客</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 29 Jul 2025 10:25:01 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 10:25:01 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 08:34:48 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 08:34:48 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>AI</category>
@@ -17,7 +17,10 @@
       <link>https://imirai.xyz/posts/AutoDL_Multi-GPU_Interconnection_Test.html</link>
       <guid>https://imirai.xyz/posts/AutoDL_Multi-GPU_Interconnection_Test.html</guid>
       <source url="https://imirai.xyz/rss.xml">AutoDL GPU 容器多 GPU 互联测试-北京 A 区-2080Ti x2</source>
-      <description>AutoDL GPU 容器多 GPU 互联测试-北京 A 区-2080Ti x2 因业务需要可能会去 AutoDL 租用服务器用于模型训练，故测试了一下其平台上消费级显卡（原版2080Ti 11G）多卡互联时的性能表现。 将结果放在这里作为参考。 省流：没有NVLink，虽然运行在PCIe 3.0x16交换机上，且两个CPU NUMA都接入了PCIe ...</description>
+      <description>AutoDL GPU 容器多 GPU 互联测试-北京 A 区-2080Ti x2
+因业务需要可能会去 AutoDL 租用服务器用于模型训练，故测试了一下其平台上消费级显卡（原版2080Ti 11G）多卡互联时的性能表现。
+将结果放在这里作为参考。
+省流：没有NVLink，虽然运行在PCIe 3.0x16交换机上，且两个CPU NUMA都接入了PCIe ...</description>
       <category>AI</category>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -34,7 +37,19 @@
       <link>https://imirai.xyz/posts/helloworld.html</link>
       <guid>https://imirai.xyz/posts/helloworld.html</guid>
       <source url="https://imirai.xyz/rss.xml">Hello World</source>
-      <description>Hello World 欢迎来到山间之风！这是我的 并不是，此前因为一些不可抗力，博客已经荒废了很久。 关于这个博客 这个博客使用 VuePress 重新构建，之前用过 hexo、 Typecho 或者 WordPress ，这次还是回来用静态页面生成器了，真香。 你可以在这里找到什么 技术文章和教程 学习笔记和心得 项目分享和总结 生活感悟 开始探索...</description>
+      <description>Hello World
+欢迎来到山间之风！这是我的  并不是，此前因为一些不可抗力，博客已经荒废了很久。
+关于这个博客
+这个博客使用 VuePress 重新构建，之前用过 hexo、 Typecho 或者 WordPress ，这次还是回来用静态页面生成器了，真香。
+你可以在这里找到什么
+
+技术文章和教程
+学习笔记和心得
+项目分享和总结
+生活感悟
+
+
+...</description>
       <category>博客</category>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[

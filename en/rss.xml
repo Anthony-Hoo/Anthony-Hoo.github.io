@@ -6,8 +6,8 @@
     <link>https://imirai.xyz/en/</link>
     <description>Hoo&amp;apos;s blog</description>
     <language>en-US</language>
-    <pubDate>Tue, 29 Jul 2025 10:25:01 GMT</pubDate>
-    <lastBuildDate>Tue, 29 Jul 2025 10:25:01 GMT</lastBuildDate>
+    <pubDate>Thu, 14 Aug 2025 08:34:48 GMT</pubDate>
+    <lastBuildDate>Thu, 14 Aug 2025 08:34:48 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>AI</category>
@@ -17,7 +17,8 @@
       <link>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</link>
       <guid>https://imirai.xyz/en/posts/AutoDL_Multi-GPU_Interconnection_Test.html</guid>
       <source url="https://imirai.xyz/en/rss.xml">AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2</source>
-      <description>AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2 Due to business needs, we may rent servers from AutoDL for model training, so we tested the perform...</description>
+      <description>AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2
+Due to business needs, we may rent servers from AutoDL for model training, so we tested the perform...</description>
       <category>AI</category>
       <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -33,7 +34,10 @@
       <link>https://imirai.xyz/en/posts/helloworld.html</link>
       <guid>https://imirai.xyz/en/posts/helloworld.html</guid>
       <source url="https://imirai.xyz/en/rss.xml">Hello World</source>
-      <description>Hello World Welcome to 山间之风! This is not really. Due to some force majeure, the blog has been abandoned for a long time. About This Blog This blog is rebuilt with VuePress. I ha...</description>
+      <description>Hello World
+Welcome to 山间之风! This is  not really. Due to some force majeure, the blog has been abandoned for a long time.
+About This Blog
+This blog is rebuilt with VuePress. I h...</description>
       <category>Blog</category>
       <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
