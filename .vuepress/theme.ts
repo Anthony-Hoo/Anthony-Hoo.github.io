@@ -161,6 +161,9 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
+    // Disable automatic robots.txt generation since we have custom one
+    seo: false,
+
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
