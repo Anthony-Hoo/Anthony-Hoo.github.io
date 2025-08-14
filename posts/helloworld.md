@@ -7,6 +7,8 @@ tag:
   - 开始
 star: true
 sticky: true
+description: 山间之风博客 - 使用VuePress构建的技术博客，分享技术文章、学习笔记、项目总结和生活感悟。欢迎探索开发者世界的技术心得与实践经验。
+keywords: 技术博客, VuePress, 开发心得, 学习笔记, 项目分享
 ---
 
 # Hello World

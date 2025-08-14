@@ -7,6 +7,8 @@ tag:
   - AutoDL
 star: true
 sticky: true
+description: AutoDL platform 2080Ti dual-GPU interconnect performance test report. Detailed analysis of P2P communication and NCCL collective communication performance bottlenecks under PCIe 3.0 x16 topology, providing reference for multi-GPU training environment setup.
+keywords: AutoDL, GPU testing, 2080Ti, multi-GPU, PCIe performance, CUDA testing, deep learning
 ---
 
 # AutoDL GPU Container Multi-GPU Interconnect Test - Beijing Zone A - 2080Ti x2

@@ -7,6 +7,8 @@ tag:
   - Getting Started
 star: true
 sticky: true
+description: 山间之风 Blog - A technical blog built with VuePress, sharing technical articles, study notes, project summaries and life insights. Explore development experiences and practical knowledge.
+keywords: tech blog, VuePress, development insights, study notes, project sharing
 ---
 
 # Hello World

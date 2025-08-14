@@ -7,6 +7,8 @@ tag:
   - AutoDL
 star: true
 sticky: true
+description: AutoDL平台2080Ti双卡GPU互联性能测试报告。详细分析PCIe 3.0 x16拓扑结构下P2P通信、NCCL集合通信性能瓶颈，提供多GPU训练环境搭建参考。
+keywords: AutoDL, GPU测试, 2080Ti, 多卡互联, PCIe性能, CUDA测试, 深度学习
 ---
 
 # AutoDL GPU 容器多 GPU 互联测试-北京 A 区-2080Ti x2
