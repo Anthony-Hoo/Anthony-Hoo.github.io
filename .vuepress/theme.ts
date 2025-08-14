@@ -150,6 +150,9 @@ export default hopeTheme({
       atom: true,
       json: true,
       rss: true,
+      getter: {
+        content: (page: any) => page.excerpt || "",
+      },
     },
 
 

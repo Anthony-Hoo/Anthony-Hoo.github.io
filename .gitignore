@@ -4,3 +4,4 @@ node_modules/
 .vuepress/.temp/
 .vuepress/dist/
 GEMINI.md
+COMMIT_MSG.tmp
